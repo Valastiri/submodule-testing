@@ -1,3 +1,3 @@
 # Main Documentation
 
-This is some random info for a home page.
+This is random info for a first page to test monorepo/multirepo with mkdocs-material.
